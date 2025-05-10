@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Carnet de Notes Princesse</title>
+    <link>https://berlonijgokiprincesse.github.io/carnet-princesse/</link>
+    <description>Ressource créative pour enfants de 5 à 10 ans</description>
+    <item>
+      <title>Carnet Éducatif Féerique</title>
+      <link>https://berlonijgokiprincesse.github.io/carnet-princesse/</link>
+      <description>Un outil d'expression libre pour les jeunes enfants qui rêvent, dessinent et écrivent leurs histoires</description>
+      <guid>https://berlonijgokiprincesse.github.io/carnet-princesse/</guid>
+    </item>
+  </channel>
+</rss>
